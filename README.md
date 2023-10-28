@@ -7,7 +7,6 @@ This is my submission for FINAL TASK Virtual Internship Exprerience Rakamin Acad
 - [VueJS](https://vuejs.org/)
 - [ViteJS](https://vitejs.dev/)
 - [FakeStoreAPI](https://fakestoreapi.com/)
-- [Axios](https://axios-http.com/docs/intro)
 
 ## Getting Started
 
